@@ -22209,14 +22209,14 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <text x="237.744" y="7.366" size="2.54" layer="94" font="vector">v10</text>
 <text x="5.08" y="68.58" size="2.54" layer="94" font="vector">Address Selection Jumpers</text>
 <text x="66.04" y="55.88" size="1.778" layer="97" font="vector">A2   A1  A0  Address</text>
-<text x="66.04" y="50.8" size="2.032" layer="97" font="vector">0   0   0   0x20 (default)</text>
+<text x="66.04" y="50.8" size="2.032" layer="97" font="vector">0   0   0   0x20</text>
 <text x="66.04" y="45.72" size="2.032" layer="97" font="vector">0   0   1   0x21</text>
 <text x="66.04" y="40.64" size="2.032" layer="97" font="vector">0   1   0   0x22</text>
 <text x="66.04" y="35.56" size="2.032" layer="97" font="vector">0   1   1   0x23</text>
 <text x="66.04" y="30.48" size="2.032" layer="97" font="vector">1   0   0   0x24</text>
 <text x="66.04" y="25.4" size="2.032" layer="97" font="vector">1   0   1   0x25</text>
 <text x="66.04" y="20.32" size="2.032" layer="97" font="vector">1   1   0   0x26</text>
-<text x="66.04" y="15.24" size="2.032" layer="96" font="vector">1   1   1   0x27</text>
+<text x="66.04" y="15.24" size="2.032" layer="96" font="vector">1   1   1   0x27 (default)</text>
 <wire x1="63.5" y1="58.42" x2="63.5" y2="54.61" width="0.2032" layer="97"/>
 <wire x1="63.5" y1="54.61" x2="63.5" y2="49.53" width="0.2032" layer="97"/>
 <wire x1="63.5" y1="49.53" x2="63.5" y2="44.45" width="0.2032" layer="97"/>
