@@ -21612,10 +21612,10 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <text x="5.08" y="180.34" size="2.54" layer="94" font="vector">Connections</text>
 <text x="132.08" y="177.8" size="1.778" layer="94" font="vector">VCC: 1.65-5.5V</text>
 <text x="168.656" y="7.366" size="2.54" layer="94" font="vector">Andy England</text>
-<text x="200.66" y="134.62" size="1.9304" layer="97" font="vector">Cut the !INT jumper to remove 
+<text x="198.12" y="134.62" size="1.9304" layer="97" font="vector">Cut the !INT jumper to remove 
 the interrupt pullup if there is 
 another pullup on !INT.</text>
-<text x="152.4" y="144.78" size="1.9304" layer="97" font="vector">Cut the I2C Jumpers 
+<text x="149.86" y="144.78" size="1.9304" layer="97" font="vector">Cut the I2C Jumpers 
 to remove these pullups 
 from the I2C bus</text>
 <text x="146.05" y="76.708" size="1.9304" layer="97" font="vector">Cut the PWR Jumper
@@ -21659,20 +21659,20 @@ to disable the PWR LED</text>
 <attribute name="PROD_ID" x="25.4" y="96.52" size="1.27" layer="96" display="off"/>
 </instance>
 <instance part="LOGO1" gate="G$1" x="170.18" y="48.26" smashed="yes"/>
-<instance part="R2" gate="G$1" x="170.18" y="121.92" smashed="yes" rot="R90">
-<attribute name="NAME" x="168.656" y="121.92" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
-<attribute name="VALUE" x="171.704" y="121.92" size="1.778" layer="96" font="vector" rot="R90" align="top-center"/>
+<instance part="R2" gate="G$1" x="167.64" y="121.92" smashed="yes" rot="R90">
+<attribute name="NAME" x="166.116" y="121.92" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
+<attribute name="VALUE" x="169.164" y="121.92" size="1.778" layer="96" font="vector" rot="R90" align="top-center"/>
 </instance>
-<instance part="R4" gate="G$1" x="185.42" y="121.92" smashed="yes" rot="R90">
-<attribute name="NAME" x="183.896" y="121.92" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
-<attribute name="VALUE" x="186.944" y="121.92" size="1.778" layer="96" font="vector" rot="R90" align="top-center"/>
+<instance part="R4" gate="G$1" x="182.88" y="121.92" smashed="yes" rot="R90">
+<attribute name="NAME" x="181.356" y="121.92" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
+<attribute name="VALUE" x="184.404" y="121.92" size="1.778" layer="96" font="vector" rot="R90" align="top-center"/>
 </instance>
-<instance part="SUPPLY1" gate="G$1" x="177.8" y="137.16" smashed="yes">
-<attribute name="VALUE" x="177.8" y="139.954" size="1.778" layer="96" font="vector" align="bottom-center"/>
+<instance part="SUPPLY1" gate="G$1" x="175.26" y="137.16" smashed="yes">
+<attribute name="VALUE" x="175.26" y="139.954" size="1.778" layer="96" font="vector" align="bottom-center"/>
 </instance>
-<instance part="U3" gate="U1" x="215.9" y="111.76" smashed="yes">
-<attribute name="NAME" x="208.28" y="124.968" size="1.778" layer="95" font="vector"/>
-<attribute name="VALUE" x="208.28" y="91.694" size="1.778" layer="96" font="vector"/>
+<instance part="U3" gate="U1" x="213.36" y="111.76" smashed="yes">
+<attribute name="NAME" x="205.74" y="124.968" size="1.778" layer="95" font="vector"/>
+<attribute name="VALUE" x="205.74" y="91.694" size="1.778" layer="96" font="vector"/>
 </instance>
 <instance part="R1" gate="G$1" x="12.7" y="27.94" smashed="yes" rot="R90">
 <attribute name="NAME" x="11.176" y="27.94" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
@@ -21695,25 +21695,25 @@ to disable the PWR LED</text>
 <instance part="SUPPLY6" gate="G$1" x="48.26" y="50.8" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="48.26" y="53.594" size="1.778" layer="96" font="vector" rot="MR0" align="bottom-center"/>
 </instance>
-<instance part="SUPPLY9" gate="G$1" x="203.2" y="127" smashed="yes">
-<attribute name="VALUE" x="203.2" y="129.794" size="1.778" layer="96" font="vector" align="bottom-center"/>
+<instance part="SUPPLY9" gate="G$1" x="200.66" y="127" smashed="yes">
+<attribute name="VALUE" x="200.66" y="129.794" size="1.778" layer="96" font="vector" align="bottom-center"/>
 </instance>
 <instance part="GND9" gate="1" x="22.86" y="152.4" smashed="yes">
 <attribute name="VALUE" x="22.86" y="152.146" size="1.778" layer="96" font="vector" align="top-center"/>
 </instance>
-<instance part="I2C" gate="G$1" x="177.8" y="129.54" smashed="yes" rot="MR270">
-<attribute name="NAME" x="175.26" y="132.461" size="1.778" layer="95" font="vector" rot="MR0"/>
+<instance part="I2C" gate="G$1" x="175.26" y="129.54" smashed="yes" rot="MR270">
+<attribute name="NAME" x="172.72" y="132.461" size="1.778" layer="95" font="vector" rot="MR0"/>
 </instance>
 <instance part="FD1" gate="G$1" x="236.22" y="27.94" smashed="yes"/>
 <instance part="FD2" gate="G$1" x="233.68" y="27.94" smashed="yes"/>
 <instance part="H1" gate="G$1" x="243.84" y="30.48" smashed="yes"/>
 <instance part="H2" gate="G$1" x="243.84" y="27.94" smashed="yes"/>
-<instance part="R6" gate="G$1" x="198.12" y="127" smashed="yes" rot="R90">
-<attribute name="NAME" x="196.596" y="127" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
-<attribute name="VALUE" x="199.644" y="127" size="1.778" layer="96" font="vector" rot="R90" align="top-center"/>
+<instance part="R6" gate="G$1" x="195.58" y="127" smashed="yes" rot="R90">
+<attribute name="NAME" x="194.056" y="127" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
+<attribute name="VALUE" x="197.104" y="127" size="1.778" layer="96" font="vector" rot="R90" align="top-center"/>
 </instance>
-<instance part="SUPPLY12" gate="G$1" x="198.12" y="147.32" smashed="yes">
-<attribute name="VALUE" x="198.12" y="150.114" size="1.778" layer="96" font="vector" align="bottom-center"/>
+<instance part="SUPPLY12" gate="G$1" x="195.58" y="147.32" smashed="yes">
+<attribute name="VALUE" x="195.58" y="150.114" size="1.778" layer="96" font="vector" align="bottom-center"/>
 </instance>
 <instance part="J5" gate="J1" x="15.24" y="160.02" smashed="yes">
 <attribute name="VALUE" x="10.16" y="152.654" size="1.778" layer="96" font="vector"/>
@@ -21723,11 +21723,11 @@ to disable the PWR LED</text>
 <attribute name="VALUE" x="33.02" y="152.654" size="1.778" layer="96" font="vector"/>
 <attribute name="NAME" x="33.02" y="168.148" size="1.778" layer="95" font="vector"/>
 </instance>
-<instance part="INT" gate="G$1" x="198.12" y="139.7" smashed="yes" rot="R90">
-<attribute name="NAME" x="195.58" y="137.16" size="1.778" layer="95" font="vector" rot="R90"/>
+<instance part="INT" gate="G$1" x="195.58" y="139.7" smashed="yes" rot="R90">
+<attribute name="NAME" x="193.04" y="137.16" size="1.778" layer="95" font="vector" rot="R90"/>
 </instance>
-<instance part="GND11" gate="1" x="203.2" y="91.44" smashed="yes">
-<attribute name="VALUE" x="203.2" y="91.186" size="1.778" layer="96" font="vector" align="top-center"/>
+<instance part="GND11" gate="1" x="200.66" y="91.44" smashed="yes">
+<attribute name="VALUE" x="200.66" y="91.186" size="1.778" layer="96" font="vector" align="top-center"/>
 </instance>
 <instance part="ADR0" gate="G$1" x="48.26" y="43.18" smashed="yes" rot="R90">
 <attribute name="NAME" x="45.72" y="40.64" size="1.778" layer="95" font="vector" rot="R90"/>
@@ -21842,7 +21842,7 @@ to disable the PWR LED</text>
 <pinref part="SUPPLY8" gate="G$1" pin="3.3V"/>
 </segment>
 <segment>
-<wire x1="177.8" y1="134.62" x2="177.8" y2="137.16" width="0.1524" layer="91"/>
+<wire x1="175.26" y1="134.62" x2="175.26" y2="137.16" width="0.1524" layer="91"/>
 <pinref part="SUPPLY1" gate="G$1" pin="3.3V"/>
 <pinref part="I2C" gate="G$1" pin="2"/>
 </segment>
@@ -21863,14 +21863,14 @@ to disable the PWR LED</text>
 </segment>
 <segment>
 <pinref part="U3" gate="U1" pin="VCC"/>
-<wire x1="205.74" y1="121.92" x2="203.2" y2="121.92" width="0.1524" layer="91"/>
-<wire x1="203.2" y1="121.92" x2="203.2" y2="127" width="0.1524" layer="91"/>
+<wire x1="203.2" y1="121.92" x2="200.66" y2="121.92" width="0.1524" layer="91"/>
+<wire x1="200.66" y1="121.92" x2="200.66" y2="127" width="0.1524" layer="91"/>
 <pinref part="SUPPLY9" gate="G$1" pin="3.3V"/>
 </segment>
 <segment>
 <pinref part="SUPPLY12" gate="G$1" pin="3.3V"/>
 <pinref part="INT" gate="G$1" pin="2"/>
-<wire x1="198.12" y1="147.32" x2="198.12" y2="144.78" width="0.1524" layer="91"/>
+<wire x1="195.58" y1="147.32" x2="195.58" y2="144.78" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="PWR" gate="G$1" pin="2"/>
@@ -21905,8 +21905,8 @@ to disable the PWR LED</text>
 </segment>
 <segment>
 <pinref part="U3" gate="U1" pin="GND"/>
-<wire x1="205.74" y1="96.52" x2="203.2" y2="96.52" width="0.1524" layer="91"/>
-<wire x1="203.2" y1="96.52" x2="203.2" y2="93.98" width="0.1524" layer="91"/>
+<wire x1="203.2" y1="96.52" x2="200.66" y2="96.52" width="0.1524" layer="91"/>
+<wire x1="200.66" y1="96.52" x2="200.66" y2="93.98" width="0.1524" layer="91"/>
 <pinref part="GND11" gate="1" pin="GND"/>
 </segment>
 <segment>
@@ -21974,12 +21974,12 @@ to disable the PWR LED</text>
 <net name="!INT" class="0">
 <segment>
 <pinref part="U3" gate="U1" pin="!INT"/>
-<wire x1="205.74" y1="119.38" x2="198.12" y2="119.38" width="0.1524" layer="91"/>
-<label x="195.58" y="119.38" size="1.27" layer="95" font="vector" rot="R180" xref="yes"/>
+<wire x1="203.2" y1="119.38" x2="195.58" y2="119.38" width="0.1524" layer="91"/>
+<label x="193.04" y="119.38" size="1.27" layer="95" font="vector" rot="R180" xref="yes"/>
 <pinref part="R6" gate="G$1" pin="1"/>
-<wire x1="198.12" y1="119.38" x2="195.58" y2="119.38" width="0.1524" layer="91"/>
-<wire x1="198.12" y1="119.38" x2="198.12" y2="121.92" width="0.1524" layer="91"/>
-<junction x="198.12" y="119.38"/>
+<wire x1="195.58" y1="119.38" x2="193.04" y2="119.38" width="0.1524" layer="91"/>
+<wire x1="195.58" y1="119.38" x2="195.58" y2="121.92" width="0.1524" layer="91"/>
+<junction x="195.58" y="119.38"/>
 </segment>
 <segment>
 <pinref part="J7" gate="G$1" pin="1"/>
@@ -21995,24 +21995,24 @@ to disable the PWR LED</text>
 <net name="SCL_PU1" class="0">
 <segment>
 <pinref part="R2" gate="G$1" pin="2"/>
-<wire x1="172.72" y1="129.54" x2="170.18" y2="129.54" width="0.1524" layer="91"/>
-<wire x1="170.18" y1="129.54" x2="170.18" y2="127" width="0.1524" layer="91"/>
+<wire x1="170.18" y1="129.54" x2="167.64" y2="129.54" width="0.1524" layer="91"/>
+<wire x1="167.64" y1="129.54" x2="167.64" y2="127" width="0.1524" layer="91"/>
 <pinref part="I2C" gate="G$1" pin="1"/>
 </segment>
 </net>
 <net name="SDA_PU1" class="0">
 <segment>
 <pinref part="R4" gate="G$1" pin="2"/>
-<wire x1="182.88" y1="129.54" x2="185.42" y2="129.54" width="0.1524" layer="91"/>
-<wire x1="185.42" y1="129.54" x2="185.42" y2="127" width="0.1524" layer="91"/>
+<wire x1="180.34" y1="129.54" x2="182.88" y2="129.54" width="0.1524" layer="91"/>
+<wire x1="182.88" y1="129.54" x2="182.88" y2="127" width="0.1524" layer="91"/>
 <pinref part="I2C" gate="G$1" pin="3"/>
 </segment>
 </net>
 <net name="ADR0" class="0">
 <segment>
 <pinref part="U3" gate="U1" pin="A0"/>
-<wire x1="205.74" y1="106.68" x2="203.2" y2="106.68" width="0.1524" layer="91"/>
-<label x="203.2" y="106.68" size="1.27" layer="95" font="vector" rot="R180" xref="yes"/>
+<wire x1="203.2" y1="106.68" x2="200.66" y2="106.68" width="0.1524" layer="91"/>
+<label x="200.66" y="106.68" size="1.27" layer="95" font="vector" rot="R180" xref="yes"/>
 </segment>
 <segment>
 <label x="50.8" y="35.56" size="1.27" layer="95" font="vector" xref="yes"/>
@@ -22027,8 +22027,8 @@ to disable the PWR LED</text>
 <net name="ADR1" class="0">
 <segment>
 <pinref part="U3" gate="U1" pin="A1"/>
-<wire x1="205.74" y1="104.14" x2="203.2" y2="104.14" width="0.1524" layer="91"/>
-<label x="203.2" y="104.14" size="1.27" layer="95" font="vector" rot="R180" xref="yes"/>
+<wire x1="203.2" y1="104.14" x2="200.66" y2="104.14" width="0.1524" layer="91"/>
+<label x="200.66" y="104.14" size="1.27" layer="95" font="vector" rot="R180" xref="yes"/>
 </segment>
 <segment>
 <label x="33.02" y="35.56" size="1.27" layer="95" font="vector" xref="yes"/>
@@ -22043,8 +22043,8 @@ to disable the PWR LED</text>
 <net name="ADR2" class="0">
 <segment>
 <pinref part="U3" gate="U1" pin="A2"/>
-<wire x1="205.74" y1="101.6" x2="203.2" y2="101.6" width="0.1524" layer="91"/>
-<label x="203.2" y="101.6" size="1.27" layer="95" font="vector" rot="R180" xref="yes"/>
+<wire x1="203.2" y1="101.6" x2="200.66" y2="101.6" width="0.1524" layer="91"/>
+<label x="200.66" y="101.6" size="1.27" layer="95" font="vector" rot="R180" xref="yes"/>
 </segment>
 <segment>
 <label x="15.24" y="35.56" size="1.27" layer="95" font="vector" xref="yes"/>
@@ -22059,12 +22059,12 @@ to disable the PWR LED</text>
 <net name="SDA" class="0">
 <segment>
 <pinref part="U3" gate="U1" pin="SDA"/>
-<wire x1="205.74" y1="114.3" x2="170.18" y2="114.3" width="0.1524" layer="91"/>
-<label x="167.64" y="114.3" size="1.27" layer="95" font="vector" rot="R180" xref="yes"/>
+<wire x1="203.2" y1="114.3" x2="167.64" y2="114.3" width="0.1524" layer="91"/>
+<label x="165.1" y="114.3" size="1.27" layer="95" font="vector" rot="R180" xref="yes"/>
 <pinref part="R2" gate="G$1" pin="1"/>
-<wire x1="170.18" y1="114.3" x2="167.64" y2="114.3" width="0.1524" layer="91"/>
-<wire x1="170.18" y1="116.84" x2="170.18" y2="114.3" width="0.1524" layer="91"/>
-<junction x="170.18" y="114.3"/>
+<wire x1="167.64" y1="114.3" x2="165.1" y2="114.3" width="0.1524" layer="91"/>
+<wire x1="167.64" y1="116.84" x2="167.64" y2="114.3" width="0.1524" layer="91"/>
+<junction x="167.64" y="114.3"/>
 </segment>
 <segment>
 <wire x1="68.58" y1="99.06" x2="73.66" y2="99.06" width="0.1524" layer="91"/>
@@ -22085,12 +22085,12 @@ to disable the PWR LED</text>
 <net name="SCL" class="0">
 <segment>
 <pinref part="U3" gate="U1" pin="SCL"/>
-<wire x1="205.74" y1="111.76" x2="185.42" y2="111.76" width="0.1524" layer="91"/>
-<label x="167.64" y="111.76" size="1.27" layer="95" font="vector" rot="R180" xref="yes"/>
+<wire x1="203.2" y1="111.76" x2="182.88" y2="111.76" width="0.1524" layer="91"/>
+<label x="165.1" y="111.76" size="1.27" layer="95" font="vector" rot="R180" xref="yes"/>
 <pinref part="R4" gate="G$1" pin="1"/>
-<wire x1="185.42" y1="111.76" x2="167.64" y2="111.76" width="0.1524" layer="91"/>
-<wire x1="185.42" y1="116.84" x2="185.42" y2="111.76" width="0.1524" layer="91"/>
-<junction x="185.42" y="111.76"/>
+<wire x1="182.88" y1="111.76" x2="165.1" y2="111.76" width="0.1524" layer="91"/>
+<wire x1="182.88" y1="116.84" x2="182.88" y2="111.76" width="0.1524" layer="91"/>
+<junction x="182.88" y="111.76"/>
 </segment>
 <segment>
 <wire x1="68.58" y1="101.6" x2="73.66" y2="101.6" width="0.1524" layer="91"/>
@@ -22111,8 +22111,8 @@ to disable the PWR LED</text>
 <net name="P0" class="0">
 <segment>
 <pinref part="U3" gate="U1" pin="P0"/>
-<wire x1="226.06" y1="119.38" x2="228.6" y2="119.38" width="0.1524" layer="91"/>
-<label x="228.6" y="119.38" size="1.27" layer="95" font="vector" xref="yes"/>
+<wire x1="223.52" y1="119.38" x2="226.06" y2="119.38" width="0.1524" layer="91"/>
+<label x="226.06" y="119.38" size="1.27" layer="95" font="vector" xref="yes"/>
 </segment>
 <segment>
 <pinref part="J5" gate="J1" pin="2"/>
@@ -22123,8 +22123,8 @@ to disable the PWR LED</text>
 <net name="P2" class="0">
 <segment>
 <pinref part="U3" gate="U1" pin="P2"/>
-<wire x1="226.06" y1="114.3" x2="228.6" y2="114.3" width="0.1524" layer="91"/>
-<label x="228.6" y="114.3" size="1.27" layer="95" font="vector" xref="yes"/>
+<wire x1="223.52" y1="114.3" x2="226.06" y2="114.3" width="0.1524" layer="91"/>
+<label x="226.06" y="114.3" size="1.27" layer="95" font="vector" xref="yes"/>
 </segment>
 <segment>
 <pinref part="J8" gate="J1" pin="2"/>
@@ -22135,8 +22135,8 @@ to disable the PWR LED</text>
 <net name="P3" class="0">
 <segment>
 <pinref part="U3" gate="U1" pin="P3"/>
-<wire x1="226.06" y1="111.76" x2="228.6" y2="111.76" width="0.1524" layer="91"/>
-<label x="228.6" y="111.76" size="1.27" layer="95" font="vector" xref="yes"/>
+<wire x1="223.52" y1="111.76" x2="226.06" y2="111.76" width="0.1524" layer="91"/>
+<label x="226.06" y="111.76" size="1.27" layer="95" font="vector" xref="yes"/>
 </segment>
 <segment>
 <pinref part="J8" gate="J1" pin="3"/>
@@ -22147,8 +22147,8 @@ to disable the PWR LED</text>
 <net name="P1" class="0">
 <segment>
 <pinref part="U3" gate="U1" pin="P1"/>
-<wire x1="226.06" y1="116.84" x2="228.6" y2="116.84" width="0.1524" layer="91"/>
-<label x="228.6" y="116.84" size="1.27" layer="95" font="vector" xref="yes"/>
+<wire x1="223.52" y1="116.84" x2="226.06" y2="116.84" width="0.1524" layer="91"/>
+<label x="226.06" y="116.84" size="1.27" layer="95" font="vector" xref="yes"/>
 </segment>
 <segment>
 <pinref part="J5" gate="J1" pin="3"/>
@@ -22160,7 +22160,7 @@ to disable the PWR LED</text>
 <segment>
 <pinref part="R6" gate="G$1" pin="2"/>
 <pinref part="INT" gate="G$1" pin="1"/>
-<wire x1="198.12" y1="132.08" x2="198.12" y2="134.62" width="0.1524" layer="91"/>
+<wire x1="195.58" y1="132.08" x2="195.58" y2="134.62" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$2" class="0">
@@ -22180,8 +22180,8 @@ to disable the PWR LED</text>
 <net name="P4" class="0">
 <segment>
 <pinref part="U3" gate="U1" pin="P4"/>
-<wire x1="226.06" y1="109.22" x2="228.6" y2="109.22" width="0.1524" layer="91"/>
-<label x="228.6" y="109.22" size="1.27" layer="95" font="vector" xref="yes"/>
+<wire x1="223.52" y1="109.22" x2="226.06" y2="109.22" width="0.1524" layer="91"/>
+<label x="226.06" y="109.22" size="1.27" layer="95" font="vector" xref="yes"/>
 </segment>
 <segment>
 <pinref part="J1" gate="J1" pin="2"/>
@@ -22192,8 +22192,8 @@ to disable the PWR LED</text>
 <net name="P5" class="0">
 <segment>
 <pinref part="U3" gate="U1" pin="P5"/>
-<wire x1="226.06" y1="106.68" x2="228.6" y2="106.68" width="0.1524" layer="91"/>
-<label x="228.6" y="106.68" size="1.27" layer="95" font="vector" xref="yes"/>
+<wire x1="223.52" y1="106.68" x2="226.06" y2="106.68" width="0.1524" layer="91"/>
+<label x="226.06" y="106.68" size="1.27" layer="95" font="vector" xref="yes"/>
 </segment>
 <segment>
 <pinref part="J1" gate="J1" pin="3"/>
@@ -22204,8 +22204,8 @@ to disable the PWR LED</text>
 <net name="P6" class="0">
 <segment>
 <pinref part="U3" gate="U1" pin="P6"/>
-<wire x1="226.06" y1="104.14" x2="228.6" y2="104.14" width="0.1524" layer="91"/>
-<label x="228.6" y="104.14" size="1.27" layer="95" font="vector" xref="yes"/>
+<wire x1="223.52" y1="104.14" x2="226.06" y2="104.14" width="0.1524" layer="91"/>
+<label x="226.06" y="104.14" size="1.27" layer="95" font="vector" xref="yes"/>
 </segment>
 <segment>
 <pinref part="J6" gate="J1" pin="2"/>
@@ -22216,8 +22216,8 @@ to disable the PWR LED</text>
 <net name="P7" class="0">
 <segment>
 <pinref part="U3" gate="U1" pin="P7"/>
-<wire x1="226.06" y1="101.6" x2="228.6" y2="101.6" width="0.1524" layer="91"/>
-<label x="228.6" y="101.6" size="1.27" layer="95" font="vector" xref="yes"/>
+<wire x1="223.52" y1="101.6" x2="226.06" y2="101.6" width="0.1524" layer="91"/>
+<label x="226.06" y="101.6" size="1.27" layer="95" font="vector" xref="yes"/>
 </segment>
 <segment>
 <pinref part="J6" gate="J1" pin="3"/>
