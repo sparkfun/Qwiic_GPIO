@@ -12,7 +12,7 @@ Repository Contents
 
 * **/Documents** - Contains datasheets and schematic.pdf
 * **/Hardware** - Current .brd and .sch files for product
-* **/Software** - Examples to get started with Qwiic GPIO
+* **/Production** - Production panel files (.brd)
 
 License Information
 -------------------
@@ -25,6 +25,4 @@ If you have any questions or concerns on licensing, please contact technical sup
 
 Distributed as-is; no warranty is given.
 
-- Your friends at SparkFun.
-
-_<COLLABORATION CREDIT>_
+- Your friends at SparkFun._
